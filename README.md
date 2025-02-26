@@ -1,14 +1,14 @@
-# React-TailWindCSS-Starter-Pack
+🎨 Random & Tag-Based GIF Generator 🎭
+A fun React-based web app that fetches and displays random GIFs! Choose a tag to get GIFs related to your interest or let the app surprise you with something random.
 
-**Step 1:** Download this repo as a zip
+✨ Features
+🎲 Random GIF Generation – Get a completely random GIF.
+🏷️ Tag-Based Search – Enter a tag to fetch GIFs based on a specific category.
+⚡ Fast & Responsive – Uses an API (e.g., Giphy or Tenor) for quick GIF fetching.
+🎨 Modern UI – Clean and minimal interface for a smooth experience.
 
-**Step 2:** To run:
+🚀 Tech Stack
+React (Frontend framework)
+Tailwind CSS (Styling)
+Giphy API / Tenor API (GIF fetching)
 
-```bash
-npm install
-npm start
-```
-
-**Step 3:** Go to [http://localhost:3000](http://localhost:3000)
-
-Facing any issue: [Documentation](https://tailwindcss.com/docs/guides/create-react-app)
